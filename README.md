@@ -1,5 +1,7 @@
 # Bulk Renamer & Organizer
 
+[![CI](https://github.com/pablon/obsidian-bulk-renamer/actions/workflows/lint.yml/badge.svg)](https://github.com/pablon/obsidian-bulk-renamer/actions/workflows/lint.yml) [![Release](https://github.com/pablon/obsidian-bulk-renamer/actions/workflows/release.yml/badge.svg)](https://github.com/pablon/obsidian-bulk-renamer/actions/workflows/release.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 > Tame your Obsidian vault. One modal. Zero broken links.
 
 Smart, safe, and ridiculously powerful filename normalization for Obsidian. Preview every change before it happens, catch collisions before they bite you, and undo with one click — because we all make mistakes at 2 AM.
