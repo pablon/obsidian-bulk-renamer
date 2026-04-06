@@ -1,0 +1,32 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended"],
+  "enabledManagers": ["npm"],
+  "branchPrefix": "renovate/",
+  "semanticCommits": "enabled",
+  "semanticCommitType": "chore",
+  "semanticCommitScope": "deps",
+  "labels": ["dependencies"],
+  "prConcurrentLimit": 3,
+  "prHourlyLimit": 2,
+  "vulnerabilityAlerts": {
+    "enabled": true,
+    "labels": ["security"],
+    "automerge": false
+  },
+  "packageRules": [
+    {
+      "description": "Disable non-security updates",
+      "matchUpdateTypes": ["major", "minor", "patch", "pin", "digest"],
+      "enabled": false
+    },
+    {
+      "description": "Enable critical and security updates only",
+      "matchUpdateTypes": ["major", "minor", "patch"],
+      "isVulnerabilityAlert": true,
+      "enabled": true,
+      "automerge": false,
+      "labels": ["dependencies", "security"]
+    }
+  ]
+}
