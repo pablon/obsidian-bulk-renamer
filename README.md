@@ -191,7 +191,9 @@ Here's how Bulk Renamer & Organizer stacks up against other popular rename plugi
 
 ## 🤝 Contributing
 
-PRs welcome! The codebase uses TypeScript + esbuild + vitest:
+We'd love your help! Check out [CONTRIBUTING.md](CONTRIBUTING.md) for setup instructions, architecture overview, testing guidelines, and how to submit a PR.
+
+Quick start for devs:
 
 ```bash
 npm install
