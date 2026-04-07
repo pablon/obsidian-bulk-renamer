@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/pablon/obsidian-bulk-renamer/compare/1.0.1...1.0.2) (2026-04-07)
+
+
+### Bug Fixes
+
+* rename plugin ID from obsidian-bulk-rename to obsidian-bulk-renamer ([69ef133](https://github.com/pablon/obsidian-bulk-renamer/commit/69ef1337784588a8af7a1442f37e7a642cd664d5))
+* **ui:** correct modal title to 'Bulk renamer' ([78f2b27](https://github.com/pablon/obsidian-bulk-renamer/commit/78f2b271dff5bb83e63a500d8940a9ed0789f4ca))
+* **ui:** expand modal to 95vw and constrain scroll to preview table ([6f176c3](https://github.com/pablon/obsidian-bulk-renamer/commit/6f176c335b7f866c287a1788fda06c88dc27d2e1))
+
 ## [1.0.1](https://github.com/pablon/obsidian-bulk-renamer/compare/1.0.0...1.0.1) (2026-04-07)
 
 
