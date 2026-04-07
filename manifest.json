@@ -1,7 +1,7 @@
 {
 	"id": "bulk-renamer",
 	"name": "Bulk Renamer & Organizer",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"minAppVersion": "1.4.0",
 	"description": "Smart filename normalization with preview, collision detection, and one-click undo",
 	"author": "pablon",

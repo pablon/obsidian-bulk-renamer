@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/pablon/obsidian-bulk-renamer/compare/1.0.2...1.0.3) (2026-04-07)
+
+
+### Bug Fixes
+
+* remove 'obsidian' from plugin ID to comply with marketplace rules ([14270a4](https://github.com/pablon/obsidian-bulk-renamer/commit/14270a403cd6058138e42a70d5660789e5d812aa))
+
 ## [1.0.2](https://github.com/pablon/obsidian-bulk-renamer/compare/1.0.1...1.0.2) (2026-04-07)
 
 
