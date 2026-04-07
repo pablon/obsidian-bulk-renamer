@@ -3,7 +3,7 @@
 	"name": "Bulk Renamer & Organizer",
 	"version": "1.0.3",
 	"minAppVersion": "1.4.0",
-	"description": "Smart filename normalization with preview, collision detection, and one-click undo",
+	"description": "Smart filename normalization with preview, collision detection, and one-click undo.",
 	"author": "pablon",
 	"authorUrl": "https://github.com/pablon",
 	"isDesktopOnly": true
