@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/pablon/obsidian-bulk-renamer/compare/1.0.0...1.0.1) (2026-04-07)
+
+
+### Bug Fixes
+
+* **ui:** expand modal width to 95vw for better readability ([e553449](https://github.com/pablon/obsidian-bulk-renamer/commit/e5534491e6cd4609d147114034dfdb4318eb8804))
+
 # 1.0.0 (2026-04-06)
 
 

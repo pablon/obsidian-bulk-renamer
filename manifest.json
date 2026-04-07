@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-bulk-rename",
 	"name": "Bulk Renamer & Organizer",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.4.0",
 	"description": "Smart filename normalization with preview, collision detection, and one-click undo",
 	"author": "pablon",
