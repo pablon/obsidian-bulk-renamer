@@ -66,7 +66,7 @@ That's it. Your vault is now organized.
 ### Manual Installation
 
 1. Grab `main.js`, `manifest.json`, and `styles.css` from the [latest release](https://github.com/pablon/obsidian-bulk-renamer/releases)
-2. Drop them into `<Vault>/.obsidian/plugins/obsidian-bulk-renamer/`
+2. Drop them into `<Vault>/.obsidian/plugins/bulk-renamer/`
 3. Reload Obsidian and enable in **Settings → Community plugins**
 
 ---

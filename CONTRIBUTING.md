@@ -59,13 +59,13 @@ npm run lint         # ESLint (includes Obsidian-specific rules)
 1. Run `npm run build`
 2. Copy `main.js`, `manifest.json`, and `styles.css` to your test vault:
    ```bash
-   cp main.js manifest.json styles.css /path/to/your/vault/.obsidian/plugins/obsidian-bulk-renamer/
+   cp main.js manifest.json styles.css /path/to/your/vault/.obsidian/plugins/bulk-renamer/
    ```
 3. Reload Obsidian (`Cmd/Ctrl+R`) and enable the plugin
 
 Or symlink the whole folder for a smoother dev experience:
 ```bash
-ln -s "$(pwd)" /path/to/your/vault/.obsidian/plugins/obsidian-bulk-renamer
+ln -s "$(pwd)" /path/to/your/vault/.obsidian/plugins/bulk-renamer
 ```
 
 ---

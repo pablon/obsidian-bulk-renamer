@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-bulk-renamer",
+	"name": "bulk-renamer",
 	"version": "1.0.2",
 	"description": "Smart filename normalization plugin for Obsidian",
 	"main": "main.js",
