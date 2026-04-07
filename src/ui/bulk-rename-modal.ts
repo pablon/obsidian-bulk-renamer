@@ -35,7 +35,7 @@ export class BulkRenameModal extends Modal {
 		contentEl.empty();
 		contentEl.addClass('bulk-rename-modal');
 
-		this.setTitle('Bulk rename');
+		this.setTitle('Bulk renamer');
 		
 		this.runPreview();
 
