@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/pablon/obsidian-bulk-renamer/compare/1.0.3...1.0.4) (2026-04-07)
+
+
+### Bug Fixes
+
+* add period to manifest description for marketplace validation ([a9a8e0c](https://github.com/pablon/obsidian-bulk-renamer/commit/a9a8e0c84304f06b8f70f024e733a70125ea3272))
+
 ## [1.0.3](https://github.com/pablon/obsidian-bulk-renamer/compare/1.0.2...1.0.3) (2026-04-07)
 
 
