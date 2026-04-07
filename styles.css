@@ -5,7 +5,7 @@
 
 /* ── Modal Container ── */
 .bulk-rename-modal {
-	width: min(90vw, 900px);
+	width: 95vw;
 	max-height: 85vh;
 	display: flex;
 	flex-direction: column;
