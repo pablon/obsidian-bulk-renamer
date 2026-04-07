@@ -60,7 +60,7 @@ tests/
 
 ## Plugin Identity (NEVER change after release)
 
-- Plugin ID: `obsidian-bulk-rename` (manifest.json `id`)
+- Plugin ID: `obsidian-bulk-renamer` (manifest.json `id`)
 - Command IDs: `open-bulk-rename`, `undo-bulk-rename`
 - CSS class prefix: `bulk-rename-*`
 - `isDesktopOnly: true`, `minAppVersion: "1.4.0"`

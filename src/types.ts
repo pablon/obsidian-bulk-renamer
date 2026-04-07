@@ -1,5 +1,5 @@
 // ─────────────────────────────────────────────────────────────────────────────
-// Shared TypeScript interfaces for obsidian-bulk-rename plugin
+// Shared TypeScript interfaces for obsidian-bulk-renamer plugin
 // NO imports from 'obsidian' — pure TypeScript types only
 // ─────────────────────────────────────────────────────────────────────────────
 
